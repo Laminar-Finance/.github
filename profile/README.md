@@ -43,6 +43,7 @@ Integration of Superfluid onto the Golem Network. Golem Network is a decentraliz
     - [ ] Creating a new wrapped superfluid token
 
 - [ ] Golem Research
+    - [ ] Install Golems
     - [ ] How do requestors pay?
     - [ ] How do requestors request for compute resources? (User flow)
     - [ ] How do providers provide compute resources?

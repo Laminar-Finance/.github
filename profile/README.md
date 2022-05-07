@@ -5,10 +5,10 @@ Integration of Superfluid onto the Golem Network. Golem Network is a decentraliz
 
 ## :bulb: Ideas
 
-- Time-based insurance premiums with Superfluid
-- Time-based advertisement space rental with Superfluid
-- Time & space usage based payment for decentralized file storage with Superfluid and Filecoin
-- Time-based general payment system with Superfluid
+- ~~Time-based insurance premiums with Superfluid~~
+- ~~Time-based advertisement space rental with Superfluid~~
+- ~~Time & space usage based payment for decentralized file storage with Superfluid and Filecoin~~
+- ~~Time-based general payment system with Superfluid~~
 
 ## :book: Learning
 
@@ -24,3 +24,22 @@ Integration of Superfluid onto the Golem Network. Golem Network is a decentraliz
 
 1. SuperFluid
 2. Polygon
+
+
+## TODOs
+
+### Pre-development
+
+- [ ] Research more on sponsor prizes if we can submit our project for more categories
+
+- [ ] Setup Frontend Repo
+- [ ] Setup Backend Repo
+- [ ] Setup Vercel
+- [ ] Setup Heroku (if required)
+- [ ] Purchase Domain
+
+- [ ] Superfluid Research
+
+- [ ] Ge
+
+### Development

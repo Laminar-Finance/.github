@@ -16,6 +16,15 @@ Integration of Superfluid onto the Golem Network. Golem Network is a decentraliz
 
 <https://github.com/superfluid-finance>
 
+#### Installing Superfluid Monorepo
+
+```
+git clone https://github.com/superfluid-finance/protocol-monorepo
+cd ./protocol-monorepo/example/continous-auction-hardhat
+yarn install
+yarn test
+```
+
 ### Filecoin
 
 <https://docs.filecoin.io/about-filecoin/what-is-filecoin>

@@ -56,8 +56,12 @@ yarn test
         git clone https://github.com/superfluid-finance/protocol-monorepo
         cd ./protocol-monorepo/examples/continous-auction-hardhat
         yarn install
+        npm install @openzeppelin/contracts # louka had to do this to prevent import errors
+        yarn add graphql -W # this was done to prevent an error
         yarn test
         ```
+        
+        650 test should pass
     - [ ] Checkout Superfluid Examples on their monorepo (see the hardhat ones)
     - [ ] Creating a new wrapped superfluid token
 

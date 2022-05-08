@@ -48,6 +48,16 @@ yarn test
 
 - [ ] Superfluid Research
     - [ ] Install Superfluid SDK
+        - [ ] Install nvm (Node Version Manager, used for managing which node.js and npm version is in use): https://github.com/nvm-sh/nvm#installing-and-updating
+        - [ ] Install npm using nvm (Node Package Manger, used for installing node.js packages): https://github.com/nvm-sh/nvm#intro
+        - [ ] Install Yarn with npm: https://classic.yarnpkg.com/lang/en/docs/install/#debian-stable
+        - [ ] Download the main superfluid repo and initialize it locally using Yarn: 
+        ```
+        git clone https://github.com/superfluid-finance/protocol-monorepo
+        cd ./protocol-monorepo/examples/continous-auction-hardhat
+        yarn install
+        yarn test
+        ```
     - [ ] Checkout Superfluid Examples on their monorepo (see the hardhat ones)
     - [ ] Creating a new wrapped superfluid token
 

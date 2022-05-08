@@ -51,6 +51,7 @@ yarn test
         - [ ] Install nvm (Node Version Manager, used for managing which node.js and npm version is in use): https://github.com/nvm-sh/nvm#installing-and-updating
         - [ ] Install npm using nvm (Node Package Manger, used for installing node.js packages): https://github.com/nvm-sh/nvm#intro
         - [ ] Install Yarn with npm: https://classic.yarnpkg.com/lang/en/docs/install/#debian-stable
+        - [ ] Install Foundary: https://github.com/foundry-rs/foundry # some tools for developing with ethereum
         - [ ] Download the main superfluid repo and initialize it locally using Yarn: 
         ```
         git clone https://github.com/superfluid-finance/protocol-monorepo

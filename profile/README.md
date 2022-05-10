@@ -84,7 +84,13 @@ yarn test
         
         650 test should pass
     - [ ] Checkout Superfluid Examples on their monorepo (see the hardhat ones)
-
+        For example, to run the tests just for the budget nft example with hardhat, first make sure you have hardhat installed, then:
+        ```
+        cd examples/budget-nft-hardhat
+        npm install # install the local dependencies for this example project
+        cd test # since some relative imports will fail otherwise
+        npx hardhat test
+        ```
 - [ ] Other Research
     - [ ] ERC20
     - [ ] ERC777

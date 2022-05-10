@@ -59,7 +59,7 @@ yarn test
 
 - [ ] Research more on sponsor prizes if we can submit our project for more categories (@dominicacodes)
 
-- [ ] Setup Frontend Repo
+- [x] Setup Frontend Repo
 - [ ] Setup Backend Repo
 - [ ] Setup Vercel
 - [ ] Setup Heroku (if required)

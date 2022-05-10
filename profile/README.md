@@ -22,6 +22,8 @@ How do users pay only for what they use in a decentralized manner?
 
 - User only paid for what they used.
 
+![overview](diagrams/userflows/overview.drawio.svg)
+
 ## :book: Learning
 
 ### Superfluid

@@ -63,7 +63,7 @@ yarn test
 
 - [x] Setup Frontend Repo
 - [x] Setup Backend Repo
-- [ ] Setup Vercel or Netlify
+- [x] Setup Vercel or Netlify
 - [ ] Purchase Domain
 - [ ] - [ ] Work out how walletconnect works
 

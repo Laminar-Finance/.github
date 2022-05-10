@@ -2,6 +2,8 @@
 
 A web app that allows users to pay and receive payments in the real world by signing a transaction via dynamically created QR codes.
 
+Deployment Link : https://storied-elf-969a20.netlify.app/
+
 ## Description
 
 Pay only for what you use, and get paid for the hours you work.

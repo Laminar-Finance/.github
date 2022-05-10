@@ -1,20 +1,42 @@
 # Laminar Finance 
-Hackmoney 2022
 
-Integration of Superfluid onto the Golem Network. Golem Network is a decentralized cloud compute service. It is currently lacking a streaming payment method such that users can accurately pay for what they use. This is where Superfluid comes in.
+A web app that allows users to pay and receive payments in the real world by signing a transaction via dynamically created QR codes.
 
-## :bulb: Ideas
+## Description
 
-- ~~Time-based insurance premiums with Superfluid~~
-- ~~Time-based advertisement space rental with Superfluid~~
-- ~~Time & space usage based payment for decentralized file storage with Superfluid and Filecoin~~
-- ~~Time-based general payment system with Superfluid~~
+Pay only for what you use, and get paid for the hours you work.
+
+## :question: Problem
+
+How do users pay only for what they use in a decentralized manner?
+
+## :star: Our solution
+
+- Users create an account. They deposit funds to be used.
+
+- Users check in using a QR Code.
+
+- Funds automatically stream to the service provider by the second.
+
+- Users check-out using a QR Code, funds are stopped from streaming.
+
+- User only paid for what they used.
 
 ## :book: Learning
 
 ### Superfluid
 
 <https://github.com/superfluid-finance>
+
+### QR Codes
+
+### Coinbase Wallet
+
+### Web3Auth
+
+<https://github.com/Web3Auth/Web3Auth>
+
+<https://demo-app.web3auth.io/>
 
 #### Installing Superfluid Monorepo
 
@@ -25,20 +47,17 @@ yarn install
 yarn test
 ```
 
-### Filecoin
-
-<https://docs.filecoin.io/about-filecoin/what-is-filecoin>
-
 ## 💰 Sponsor Prizes
 
 1. SuperFluid
 2. Polygon
+3. To add more... 
 
-## TODOs
+## :pencil: TODOs
 
 ### Pre-development
 
-- [ ] Research more on sponsor prizes if we can submit our project for more categories
+- [ ] Research more on sponsor prizes if we can submit our project for more categories (@dominicacodes)
 
 - [ ] Setup Frontend Repo
 - [ ] Setup Backend Repo
@@ -66,15 +85,6 @@ yarn test
     - [ ] Checkout Superfluid Examples on their monorepo (see the hardhat ones)
     - [ ] Creating a new wrapped superfluid token
 
-- [ ] Golem Research
-    - [ ] Install Golems
-    - [ ] How do requestors pay?
-    - [ ] How do requestors request for compute resources? (User flow)
-    - [ ] How do providers provide compute resources?
-    - [ ] How do providers receive payments?
-    - [ ] How are compute resources pooled
-    - [ ] How are compute resources extracted from the pool
-
 - [ ] Other Research
     - [ ] ERC20
     - [ ] ERC777
@@ -82,3 +92,11 @@ yarn test
 
 
 ### Development
+
+
+## :bulb: Initial Ideas
+
+- ~~Time-based insurance premiums with Superfluid~~
+- ~~Time-based advertisement space rental with Superfluid~~
+- ~~Time & space usage based payment for decentralized file storage with Superfluid and Filecoin~~
+- ~~Time-based general payment system with Superfluid~~

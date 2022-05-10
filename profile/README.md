@@ -78,6 +78,7 @@ yarn test
         yarn install
         npm install @openzeppelin/contracts # louka had to do this to prevent import errors
         yarn add graphql -W # this was done to prevent an error
+        yarn build
         yarn test
         ```
         

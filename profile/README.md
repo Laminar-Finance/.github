@@ -84,7 +84,6 @@ yarn test
         
         650 test should pass
     - [ ] Checkout Superfluid Examples on their monorepo (see the hardhat ones)
-    - [ ] Creating a new wrapped superfluid token
 
 - [ ] Other Research
     - [ ] ERC20

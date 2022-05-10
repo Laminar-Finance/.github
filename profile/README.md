@@ -101,7 +101,7 @@ yarn test
 
 ## 🛠️ Technicals
 
-We will use React Native for developing the mobile application
+We will use Next js for developing the mobile application
 
 
 ## :bulb: Initial Ideas

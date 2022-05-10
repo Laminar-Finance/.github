@@ -64,8 +64,9 @@ yarn test
 - [ ] Setup Vercel
 - [ ] Setup Heroku (if required)
 - [ ] Purchase Domain
+- [ ] Work out how walletconnect works
 
-- [] Superfluid Research (lewingtonpitsos)
+- [ ] Superfluid Research (lewingtonpitsos)
     - [ ] Install Superfluid SDK
         - [ ] Install nvm (Node Version Manager, used for managing which node.js and npm version is in use): https://github.com/nvm-sh/nvm#installing-and-updating
         - [ ] Install npm using nvm (Node Package Manger, used for installing node.js packages): https://github.com/nvm-sh/nvm#intro

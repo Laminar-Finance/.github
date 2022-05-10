@@ -59,13 +59,14 @@ yarn test
 
 - [ ] Research more on sponsor prizes if we can submit our project for more categories (@dominicacodes)
 
-- [ ] Setup Frontend Repo
-- [ ] Setup Backend Repo
+- [x] Setup Frontend Repo
+- [x] Setup Backend Repo
 - [ ] Setup Vercel
 - [ ] Setup Heroku (if required)
 - [ ] Purchase Domain
+- [ ] Work out how walletconnect works
 
-- [ ] Superfluid Research
+- [ ] Superfluid Research (lewingtonpitsos)
     - [ ] Install Superfluid SDK
         - [ ] Install nvm (Node Version Manager, used for managing which node.js and npm version is in use): https://github.com/nvm-sh/nvm#installing-and-updating
         - [ ] Install npm using nvm (Node Package Manger, used for installing node.js packages): https://github.com/nvm-sh/nvm#intro
@@ -78,13 +79,19 @@ yarn test
         yarn install
         npm install @openzeppelin/contracts # louka had to do this to prevent import errors
         yarn add graphql -W # this was done to prevent an error
+        yarn build
         yarn test
         ```
         
         650 test should pass
-    - [ ] Checkout Superfluid Examples on their monorepo (see the hardhat ones)
-    - [ ] Creating a new wrapped superfluid token
-
+    - [x] Checkout Superfluid Examples on their monorepo (see the hardhat ones) (lewingtonpitsos)
+        For example, to run the tests just for the budget nft example with hardhat, first make sure you have hardhat installed, then:
+        ```
+        cd examples/budget-nft-hardhat
+        npm install # install the local dependencies for this example project
+        cd test # since some relative imports will fail otherwise
+        npx hardhat test
+        ```
 - [ ] Other Research
     - [ ] ERC20
     - [ ] ERC777
@@ -92,6 +99,10 @@ yarn test
 
 
 ### Development
+
+## 🛠️ Technicals
+
+We will use Next js for developing the mobile application
 
 
 ## :bulb: Initial Ideas

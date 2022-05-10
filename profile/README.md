@@ -93,6 +93,10 @@ yarn test
 
 ### Development
 
+## 🛠️ Technicals
+
+We will use React Native for developing the mobile application
+
 
 ## :bulb: Initial Ideas
 

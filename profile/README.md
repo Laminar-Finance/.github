@@ -60,12 +60,12 @@ yarn test
 - [ ] Research more on sponsor prizes if we can submit our project for more categories (@dominicacodes)
 
 - [x] Setup Frontend Repo
-- [ ] Setup Backend Repo
+- [x] Setup Backend Repo
 - [ ] Setup Vercel
 - [ ] Setup Heroku (if required)
 - [ ] Purchase Domain
 
-- [ ] Superfluid Research
+- [] Superfluid Research (lewingtonpitsos)
     - [ ] Install Superfluid SDK
         - [ ] Install nvm (Node Version Manager, used for managing which node.js and npm version is in use): https://github.com/nvm-sh/nvm#installing-and-updating
         - [ ] Install npm using nvm (Node Package Manger, used for installing node.js packages): https://github.com/nvm-sh/nvm#intro
@@ -83,7 +83,7 @@ yarn test
         ```
         
         650 test should pass
-    - [ ] Checkout Superfluid Examples on their monorepo (see the hardhat ones)
+    - [x] Checkout Superfluid Examples on their monorepo (see the hardhat ones) (lewingtonpitsos)
         For example, to run the tests just for the budget nft example with hardhat, first make sure you have hardhat installed, then:
         ```
         cd examples/budget-nft-hardhat

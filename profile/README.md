@@ -104,6 +104,8 @@ yarn test
   - [ ] Payment Receiver
   - [ ] Deploy Smart Contract on Mumbai
   - [ ] Document ABI + Address of Deployment
+  - [ ] Receive Superfluid Stream @Lewington-pitsos
+  - [ ] Stop Superfluid Stream when checkout (@Lewington-pitsos)
 - [ ] Frontend
 
 - [ ] Backend
